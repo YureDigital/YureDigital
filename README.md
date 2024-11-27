@@ -19,5 +19,5 @@
 <div> 
   <a href = "mailto:yuredigital10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yure-digital/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "be.net/yuresaulo"><img src="https://img.shields.io/badge/-BEHANCE-%23333?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a>
+  <a href = "https://www.behance.net/yuresaulo#"><img src="https://img.shields.io/badge/-BEHANCE-%23333?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a>
 </div>
